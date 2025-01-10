@@ -1,1 +1,4 @@
-Ajout du système de réglage de volume
+Ajouts d'easter eggs
+Ajout des Credits
+Patch des Bugs
+Ajout d'un volume plus que max
